@@ -1,6 +1,5 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
 ### MY NAME IS ADISORN SRIPHONGTHONG
-##everyone call me get
 
 ### sᴋɪʟʟs
 <p align="left">
