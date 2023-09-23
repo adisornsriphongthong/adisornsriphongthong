@@ -1,5 +1,8 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
 ### MY NAME IS ADISORN SRIPHONGTHONG
+### Engineering and Technology
+### Digital and information technology
+
 
 ### sᴋɪʟʟs
 <p align="left">
