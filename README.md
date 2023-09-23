@@ -1,7 +1,6 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
 ### MY NAME IS ADISORN SRIPHONGTHONG
-### Engineering and Technology
-### Digital and information technology
+### ENGINEERING AND TECHNOLOGY (DIGITAL AND INFORMATION TECHNOLOGY)
 
 
 ### sᴋɪʟʟs
