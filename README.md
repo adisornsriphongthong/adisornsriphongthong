@@ -13,7 +13,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="bootstrap" width="46" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="bootstrap" width="35" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/9d/6f/04/9d6f04cf032eca77df4d5a62017f6337.jpg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/9d/6f/04/9d6f04cf032eca77df4d5a62017f6337.jpg" alt="spring" width="45" height="45"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.debiantutorials.com/wp-content/uploads/2016/07/Mysql-dolphin-square.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
