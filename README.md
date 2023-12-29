@@ -13,7 +13,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="bootstrap" width="46" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="bootstrap" width="35" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="spring" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.debiantutorials.com/wp-content/uploads/2016/07/Mysql-dolphin-square.png" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
