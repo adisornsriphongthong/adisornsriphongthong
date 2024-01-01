@@ -1,7 +1,7 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
 <p>My name is Adisorn Sriphongthong <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="spring" width="40" height="40"/></p>
 
-### ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢʏ (ᴅɪɢɪᴛᴀʟ ᴀɴᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ)
+<p>I am computer science</p>
 
 ### sᴋɪʟʟs
 <p align="left">
