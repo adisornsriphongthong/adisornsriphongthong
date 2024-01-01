@@ -1,7 +1,7 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
-<p>hello</p> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="spring" width="40" height="40"/> </a> 
-### ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢʏ (ᴅɪɢɪᴛᴀʟ ᴀɴᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ)
+<p>hello <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="spring" width="40" height="40"/></p>
 
+### ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢʏ (ᴅɪɢɪᴛᴀʟ ᴀɴᴅ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ)
 
 ### sᴋɪʟʟs
 <p align="left">
