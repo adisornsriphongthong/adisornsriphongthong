@@ -1,5 +1,5 @@
 ### ʜɪ ᴇᴠᴇʀʏᴏɴᴇ 👋
-<p color="red">My name is Adisorn Sriphongthong <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="spring" width="40" height="40"/></p>
+<p color="red"><FONT COLOR="red">My name is Adisorn Sriphongthong</FONT> <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="spring" width="40" height="40"/></p>
 <p>I am computer science but you can call me get</p>
 
 ### sᴋɪʟʟs
